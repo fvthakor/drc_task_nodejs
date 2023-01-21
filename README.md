@@ -2,7 +2,12 @@
 
 
 # multiple image upload
-Code for uploading multiple images:  <b>demo_image/index.html</b>
+Code for uploading multiple images: <br> 
+<b>demo_image/index.html</b>
+
+![demo_image/index.html](demo_image/index.html)
+
+<br />
 post method<br />
 http://localhost:5000/product/add-image/:id<br />
 <br />
